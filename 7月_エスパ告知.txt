@@ -1,0 +1,96 @@
+<div id="all">
+
+<div class="banner">
+<img src="https://d2uqarpmf42qy0.cloudfront.net/event/19_yamamoto/tops_party/TOP--S-PARTY.png" class="banner" width="100%">
+</div>
+
+
+<div id="body">
+<br>
+<div id="tab">
+<h4>🏆　7月のTOP S PARTYに関するお知らせ　🏆</h4>
+<br>
+<br>
+<p>7月のTOP S PARTYは<br>
+<br>
+ <img class="special" src="https://x.gd/byJaq" width="40%" >で<br>
+開催予定！！<br>
+<br>
+<br>
+  詳細はcoming soon...</p>
+<br>
+<br>
+<br>
+
+ \　TOP S PARTYについては　/<br>
+  <br>
+  <a href="https://mixch.tv/p/sh3bk8lc"><div id="button">こちらをクリック！</div ></a>
+<br>
+<br>
+</div>
+<br>
+</div>
+
+<div id="cs">
+<br>
+Top S Partyに関するお問い合わせ窓口<br>
+ [ミクチャ運営事務局]<br>
+mixch-support@donuts.ne.jp
+<div class="logo"> <img src="https://d2uqarpmf42qy0.cloudfront.net/event/NIKU/mixch_LOGO.png" class="logo" width="25%">
+</div>
+
+
+</div>
+
+
+<style>
+div#all{
+max-width:480px;
+margin:0 auto;
+}
+div#body{
+background-color:#E8DCBD;
+}
+
+div#tab{
+text-align:center;
+margin:0 auto;
+width:90%;
+background-color:white;
+border-radius:15px;
+}
+p{
+font-size:15px;
+}
+h4{
+ margin:0;
+ text-align: center;
+ padding:7px;
+ border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+background:linear-gradient(to right,#FFB528,#FFEFA8,#FFC440)
+}
+div#button{
+color:#FFC440;
+font-weight: bold;
+margin:0 auto;
+width:40%;
+background-color:#DB1E2E;
+padding:10px;
+border-radius: 15px;
+box-shadow:0px 6px 0 #E95561;
+  }
+div #button:hover{
+transition:0.2s;
+transform: translateY(4px);
+box-shadow:none;
+  }
+a{
+text-decoration:none;
+}
+div#cs{
+background-color:#f5f4f1;
+    text-align:center;
+    padding:10px;
+}
+</style>
